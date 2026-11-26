@@ -1,0 +1,284 @@
+{
+  "schemaVersion": "2026.11",
+  "updated": "2026-11-26",
+  "interactiveMapUrl": "https://szfactorytour.com/huaqiangbei-electronics-market.html",
+  "buildings": [
+    {
+      "id": "seg-plaza",
+      "name": "SEG Electronics Market",
+      "cn": "赛格电子市场 · 1002 Huaqiang N Rd",
+      "bestFor": "Raw ICs, sensors, OLED displays, ESP32/STM32 boards & lab tools",
+      "metro": "Huaqiang Rd (Line 1, Exit A) · Huaqiang North (Line 2/7, Exit D2)",
+      "hours": "10:00–18:30 (peak 11:00–17:00)",
+      "openHour": 10,
+      "closeHour": 18.5,
+      "categories": [
+        "components",
+        "ai-hardware",
+        "robotics"
+      ],
+      "moq": "1–10 pcs sample friendly on 1F–3F; reels/trays on 4F+",
+      "floors": [
+        {
+          "f": "1F–2F",
+          "desc": "Raw components, resistors, connectors, OLED/LCD panels, ESP32/STM32/Raspberry Pi dev boards, soldering & lab tools."
+        },
+        {
+          "f": "3F",
+          "desc": "Sensors (LiDAR, IMU, cameras), power modules, lithium cells, mini motors & robotics actuators."
+        },
+        {
+          "f": "4F–6F",
+          "desc": "Industrial PCs, embedded boards, POS terminals, custom display controllers, and small-batch assembly desks."
+        }
+      ],
+      "tip": "Walk 1F–3F with a printed BOM table (part number + qty + target price). Booths quote wholesale tiers faster when they see exact IC codes."
+    },
+    {
+      "id": "hq-world",
+      "name": "Huaqiang Electronics World · HQ-Mart",
+      "cn": "华强电子世界 · 1015 Huaqiang N Rd",
+      "bestFor": "IC distributors, PCB/PCBA quick-turn desks & AI smart wearables",
+      "metro": "Huaqiang North (Line 2/7, Exit A)",
+      "hours": "10:00–18:30",
+      "openHour": 10,
+      "closeHour": 18.5,
+      "categories": [
+        "components",
+        "ai-hardware",
+        "3c-wholesale"
+      ],
+      "moq": "Mixed: 1 pc for dev kits & LEDs; 50–500 pcs for OEM enclosures",
+      "floors": [
+        {
+          "f": "1F–2F",
+          "desc": "IC distributors, connectors, cables, micro-displays, LED drivers, and PCB/PCBA quick-turn broker desks."
+        },
+        {
+          "f": "3F–4F",
+          "desc": "AI smart glasses demos, mini projectors, smart wearables, audio modules, and white-label 3C gadgets."
+        },
+        {
+          "f": "5F+",
+          "desc": "Refurbished parts, industrial power supplies, and B2B trading offices."
+        }
+      ],
+      "tip": "Compare identical IC quotes across 3 booths here vs. SEG Plaza—price spreads on uncommon chips can exceed 25%."
+    },
+    {
+      "id": "yuanwang",
+      "name": "Yuanwang Digital Mall",
+      "cn": "远望数码商城 · 2006 Huaqiang N Rd",
+      "bestFor": "2F AI/Robot pavilion, GaN chargers, smartphones & export packaging",
+      "metro": "Huaqiang North (Line 2/7, Exit B)",
+      "hours": "10:30–19:00",
+      "openHour": 10.5,
+      "closeHour": 19,
+      "categories": [
+        "smartphones",
+        "3c-wholesale",
+        "ai-hardware"
+      ],
+      "moq": "5–20 units for wholesale pricing; single-unit retail available",
+      "floors": [
+        {
+          "f": "1F–2F",
+          "desc": "AI gadget & consumer robot showcases, GaN chargers, magnetic power banks, cases, and export-ready packaging."
+        },
+        {
+          "f": "3F–4F",
+          "desc": "Wholesale smartphones, tablets, wearables, and cross-border electronics fulfillment counters."
+        }
+      ],
+      "tip": "Confirm whether quotes include export battery certification (UN38.3 / MSDS) before paying deposits."
+    },
+    {
+      "id": "manha",
+      "name": "Manha Digital Plaza",
+      "cn": "曼哈数码广场 · 2001 Huaqiang N Rd",
+      "bestFor": "New AI consumer gadgets, smart glasses, FPV drones & creator gear",
+      "metro": "Huaqiang North (Line 2/7, Exit B)",
+      "hours": "10:30–19:30",
+      "openHour": 10.5,
+      "closeHour": 19.5,
+      "categories": [
+        "ai-hardware",
+        "robotics",
+        "3c-wholesale"
+      ],
+      "moq": "1–5 units sample buy; 100+ units custom logo OEM",
+      "floors": [
+        {
+          "f": "1F–2F",
+          "desc": "AI hardware gadgets (voice recorders, smart rings, AI glasses, pocket translators), consumer drones & FPV parts."
+        },
+        {
+          "f": "3F–4F",
+          "desc": "Creator lighting, wireless mics, action camera rigs, and trending Amazon/TikTok 3C samples."
+        }
+      ],
+      "tip": "Best hall for spotting newly launched AI consumer gadgets before they appear on Western e-commerce platforms."
+    },
+    {
+      "id": "feiyang-tongtiandi",
+      "name": "Feiyang & Tongtiandi Hub",
+      "cn": "飞扬时代 / 通天地 · Zhenhua Rd",
+      "bestFor": "OLED replacement screens, flex cables, camera modules & board repair",
+      "metro": "Science Museum (Line 1/6, Exit C) · 8 min walk south",
+      "hours": "13:00–19:30 (afternoons busiest)",
+      "openHour": 13,
+      "closeHour": 19.5,
+      "categories": [
+        "smartphones",
+        "components"
+      ],
+      "moq": "5–50 pcs for screen/camera/board repair parts",
+      "floors": [
+        {
+          "f": "1F–3F",
+          "desc": "Replacement OLED screens, camera sensors, flex cables, micro-soldering fixtures, and phone testing rigs."
+        },
+        {
+          "f": "4F+",
+          "desc": "Board-level diagnostic equipment and bulk refurbishing suppliers."
+        }
+      ],
+      "tip": "Do not arrive at 9:30 AM—most wholesale stalls here open after lunch around 13:00."
+    },
+    {
+      "id": "seg-comm",
+      "name": "SEG Communications Market",
+      "cn": "赛格通信市场 · 1012 Huaqiang N Rd",
+      "bestFor": "Smartphone accessories, smartwatches, Bluetooth earbuds & small-MOQ packaging",
+      "metro": "Huaqiang North (Line 2/7, Exit D2) · adjacent to SEG Plaza",
+      "hours": "10:00–18:30",
+      "openHour": 10,
+      "closeHour": 18.5,
+      "categories": [
+        "3c-wholesale",
+        "smartphones"
+      ],
+      "moq": "10–50 units for OEM/white-label accessories",
+      "floors": [
+        {
+          "f": "1F–2F",
+          "desc": "Cases, screen protectors, USB-C cables, TWS audio modules, and smartwatch straps."
+        },
+        {
+          "f": "3F",
+          "desc": "Custom retail gift boxes, blister inserts, and barcode labeling booths (same-day sample printing)."
+        }
+      ],
+      "tip": "Ideal stop if you need retail packaging prototypes printed the same afternoon after sourcing electronics in SEG Plaza."
+    },
+    {
+      "id": "modern-window",
+      "name": "Modern Window Digital Plaza",
+      "cn": "现代之窗数码广场 · 1058 Huaqiang N Rd",
+      "bestFor": "Cameras, cinema lenses, studio lighting, gimbals & audio gear",
+      "metro": "Huaqiang North (Line 2/7, Exit A)",
+      "hours": "10:30–19:00",
+      "openHour": 10.5,
+      "closeHour": 19,
+      "categories": [
+        "3c-wholesale",
+        "robotics"
+      ],
+      "moq": "1 unit retail/creator friendly; bulk pricing on lights & tripods",
+      "floors": [
+        {
+          "f": "1F–2F",
+          "desc": "New and pre-owned mirrorless cameras, cine lenses, DJI gimbals, and action-cam mounts."
+        },
+        {
+          "f": "3F–4F",
+          "desc": "LED studio lights, carbon tripods, shotgun mics, and repair workshops."
+        }
+      ],
+      "tip": "Pitfall alert: Skip Mingtong Cosmetics Market (明通化妆品市场) nearby—despite old blog posts, it converted into wholesale beauty products, not electronics."
+    }
+  ],
+  "walkingRoutes": [
+    {
+      "id": "maker-bom",
+      "kicker": "3–4 Hours · Best 10:00–14:00",
+      "title": "Engineer & BOM Sourcing Walk",
+      "sub": "ICs, ESP32/STM32, sensors, PCBA desks & same-day sample boxes",
+      "stops": [
+        "seg-plaza",
+        "hq-world",
+        "seg-comm"
+      ],
+      "brief": "Start at Huaqiang Rd Exit A → walk 1F–3F of SEG Plaza with your printed BOM → cross north to HQ-Mart (1F–2F) to compare chip & PCBA broker quotes → finish next door at SEG Comm (3F) for custom retail box samples."
+    },
+    {
+      "id": "ai-drone",
+      "kicker": "Half-Day · Best 10:30–16:00",
+      "title": "AI Gadgets, FPV & Creator Gear",
+      "sub": "Smart glasses, consumer robotics, drones, GaN chargers & camera rigs",
+      "stops": [
+        "hq-world",
+        "manha",
+        "yuanwang",
+        "modern-window"
+      ],
+      "brief": "Exit Huaqiang North Exit A/B → check AI wearables on HQ-Mart 3F–4F → walk north to Manha Plaza (1F–2F) for newly launched AI gadgets & FPV drones → compare GaN/3C export packs at Yuanwang → inspect gimbals & studio lights at Modern Window."
+    },
+    {
+      "id": "phone-parts",
+      "kicker": "Afternoon · Start 13:00+",
+      "title": "Smartphones, OLEDs & Repair Hub",
+      "sub": "Wholesale phones, cases, replacement screens & micro-soldering tools",
+      "stops": [
+        "yuanwang",
+        "seg-comm",
+        "feiyang-tongtiandi"
+      ],
+      "brief": "Repair hubs sleep in — do not arrive at 9:30 AM. Start at 13:00 inside Yuanwang (3F–4F) for wholesale handsets → stop next door at SEG Comm (1F–2F) for cases and TWS accessories → walk south to Feiyang & Tongtiandi after 13:30 when OLED screen and board-repair stalls peak."
+    }
+  ],
+  "boothPhrases": [
+    {
+      "id": "sample-moq",
+      "tag": "Sample vs. Bulk",
+      "en": "Can I buy 1–2 samples today? What is the unit price for 100 pcs?",
+      "zh": "老板好，这款今天可以拿 1–2 个样品吗？100 个起订的单价是多少？",
+      "py": "Lǎobǎn hǎo, zhè kuǎn jīntiān kěyǐ ná yī liǎng gè yàngpǐn ma? Yībǎi gè qǐdìng de dānjià shì duōshǎo?"
+    },
+    {
+      "id": "original-ic",
+      "tag": "Authentic IC Check",
+      "en": "Is this brand-new original stock? What is the manufacturing date code (DC)?",
+      "zh": "请问这是全新原装正品吗？是什么年份批次（DC）的货？",
+      "py": "Qǐngwèn zhè shì quánxīn yuánzhuāng zhèngpǐn ma? Shì shénme niánfèn pīcì (DC) de huò?"
+    },
+    {
+      "id": "wechat-spec",
+      "tag": "Datasheet & WeChat",
+      "en": "Can I add your WeChat to get the English datasheet and tiered price sheet?",
+      "zh": "方便加个微信，发一份英文规格书（Datasheet）和阶梯报价单给我吗？",
+      "py": "Fāngbiàn jiā gè Wēixìn, fā yī fèn Yīngwén guīgéshū hé jiētī bàojìadān gěi wǒ ma?"
+    },
+    {
+      "id": "battery-cert",
+      "tag": "Battery & Export",
+      "en": "Does this lithium-battery product have UN38.3, MSDS, and CE/FCC reports for international air shipping?",
+      "zh": "这款带锂电池的产品有 UN38.3、MSDS 和 CE/FCC 认证报告吗？我们要发国际空运。",
+      "py": "Zhè kuǎn dài lǐdiànchí de chǎnpǐn yǒu UN38.3, MSDS hé CE/FCC rènzhèng bàogào ma? Wǒmen yào fā guójì kōngyùn."
+    },
+    {
+      "id": "oem-logo",
+      "tag": "Custom OEM / MOQ",
+      "en": "What is the MOQ and lead time in days if we customize our own logo and retail box?",
+      "zh": "如果定制我们自己的 Logo 和包装盒，起订量（MOQ）多少？交期几天？",
+      "py": "Rúguǒ dìngzhì wǒmen zìjǐ de Logo hé bāozhuānghé, qǐdìngliàng (MOQ) duōshǎo? Jiāoqī jǐ tiān?"
+    },
+    {
+      "id": "factory-line",
+      "tag": "Direct Factory Check",
+      "en": "Do you own an SMT or assembly factory in Bao'an or Dongguan that we can visit this week?",
+      "zh": "你们在宝安或东莞有自己的贴片/组装工厂吗？这两天方便去参观吗？",
+      "py": "Nǐmen zài Bǎo'ān huò Dōngguǎn yǒu zìjǐ de tiēpiàn / zǔzhuāng gōngchǎng ma? Zhè liǎng tiān fāngbiàn qù cānguān ma?"
+    }
+  ]
+}
